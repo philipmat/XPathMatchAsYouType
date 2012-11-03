@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items link="~/Html/Default.htm" xmlns=http://site/menu 
+    xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance 
+    xsi:schemalocation="http://site/menu menu.xsd">
+    <item title="Products" link="#">
+        <item title="Product 1" link="#"/>
+        <item title="Product 2" link="#"/>
+        <item title="Product 3" link="#"/>
+        <item title="Product 4" link= "#"/>
+    </item>
+    <item title="Services" link="#">
+        <item title="Service 1" link="#" />
+        <item title="Service 2" link="#" />
+    </item>
+    <item title="People" link="#"/>
+    <item title="Opening Hours" link="#"/>
+    <item title="Prices" link="#"/>
+    <item title="Contacts" link="#"/>
+</items>
